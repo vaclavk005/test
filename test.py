@@ -1,4 +1,5 @@
 print("Hellow World!")
 print("something")
+print("2")
 print("1")
 print("0")
